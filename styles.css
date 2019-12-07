@@ -1,0 +1,17 @@
+html {
+    text-align: center;
+    font-family: 'Cantarell', sans-serif;
+    font-style: italic;
+    background-color: rgb(21, 19, 60);
+    color: lightgrey;
+}
+
+h1 {
+    text-decoration-line: underline;
+}
+
+img {
+    width: 80%;
+    max-width: 500px;
+    height: 50%;
+}

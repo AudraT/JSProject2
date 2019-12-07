@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Cantarell:400,400i&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="./setup.css">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Rock-Paper-Scissors-Lizard-Spock</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Rock-Paper-Scissors-Lizard-Spock!</h1>
+    </header>
+    <main>
+        <section class="infobar">
+        </section>
+        <section class = "game">
+            <div class = "info">
+                <img src="./Assests/full.png" alt="Rock beats scissors and lizard, lizard beats Spock and paper, Spock beats scissors and rock, scissors beats paper and lizard, paper beats rock and Spock.">
+            </div>
+            
+            <div id="buttons">
+                <button id="rock"><i class="user rock"></i><span>Rock</span></button>
+                <button id="paper"><i class="user paper"></i><span>Paper</span></button>
+                <button id="scissors"><i class="user scissors"></i><span>Scissors</span></button>
+                <button id="lizard"><i class="user lizard"></i><span>Lizard</span></button>
+                <button id="spock"><i class="user Spock"></i><span>Spock</span></button>
+            </div>
+
+            <div class="winORlose">
+                <h3> <span class="win-lose">Pick a button!</span></h3>
+                <h4 class="scroll"></h4>
+                <h4 class="jokeGoesHere"></h4>
+                <h4 class="punchLineHere"></h4>
+            </div>
+        </section>
+    </main>
+    
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="scripts.js"></script>
+</body>
+</html>
