@@ -7,5 +7,5 @@ Select an option to play against your browser. If you win, you'll win a random j
 The image shows you what each selection beats and loses to. 
 Created as the final project for JavaScript Fundamentals. Uses jQuery, JavaScript, HTML5 & CSS3. 
 
-Image credit: 
-Joke API: 
+Image credit: https://softologyblog.wordpress.com/2018/03/23/rock-paper-scissors-cellular-automata/
+Joke API: https://official-joke-api.appspot.com/random_joke 
