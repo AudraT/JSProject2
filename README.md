@@ -1,4 +1,4 @@
- #Rock Paper Scissors Lizard Spock
+ <b>Rock Paper Scissors Lizard Spock</b>
 
 Welcome to Rock Paper Scissors Lizard Spock!
 
