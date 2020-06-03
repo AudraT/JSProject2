@@ -1,4 +1,4 @@
-# JSProject2
+ #Rock Paper Scissors Lizard Spock
 
 Welcome to Rock Paper Scissors Lizard Spock!
 
